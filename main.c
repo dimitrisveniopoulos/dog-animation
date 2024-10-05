@@ -1,6 +1,3 @@
-// Βενιόπουλος Δημήτρης 3610
-// Αθανάσιος Γιαπουτζής 3589
-
 #include <GL/glut.h>
 #include <GL/glu.h>
 #include <stdlib.h>
